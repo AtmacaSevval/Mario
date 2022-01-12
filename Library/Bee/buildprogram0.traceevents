@@ -1,0 +1,8 @@
+{ "pid": "BuildProgram", "ph":"M", "name": "process_name", "args": {"name": "BuildProgram"} },
+{ "pid": "BuildProgram", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -1} },
+{ "pid": "BuildProgram", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "BuildProgram", "tid": 1,"ts": 351762911749.5,"dur": 658780.3, "ph":"X", "name": "BuildProgram"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 351762911986.7,"dur": 120573, "ph":"X", "name": "BuildProgramContextCCtor"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 351763483154.2,"dur": 2897.5, "ph":"X", "name": "OutputData.Write"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 351763486052.1,"dur": 84477.2, "ph":"X", "name": "Backend.Write"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 351763486823.5,"dur": 63846.1, "ph":"X", "name": "JsonToString"},
